@@ -19,7 +19,7 @@ The program files in this replication package contain the statistical tests used
 - Files in `Statistical Tests/` will run the tests associated with each research question. The research question files can be run in any sequence, though the code within should be run in order.
 
 # Requirements
-- Python 3.10
+- Python 3.12
 - Required packages:
   - pandas
   - numpy
@@ -29,7 +29,7 @@ The program files in this replication package contain the statistical tests used
 # Running the Analyses
 
 - Clone or download the repository.
-- Create the Python 3.10 environment and install dependencies.
+- Create the Python 3.12 environment and install dependencies.
 - Run the scripts in Statistical Tests/.
 - Each research-question script can be executed independently.
 - Code blocks inside each script must be run in order.
