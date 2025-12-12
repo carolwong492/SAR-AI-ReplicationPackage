@@ -15,7 +15,7 @@ Give a high-level overview of the program files and their purpose. Remove redund
 -->
 
 - Files in `Data Analysis/` consist of the SAR pattern lists that compose the RegEx pattern used in the statistical tests.
-- Files in `Statistical Tests/` will run the tests associated with each research question. 
+- Files in `Statistical Tests/` will run the tests associated with each research question. Each individual file can be run in any sequence.
   
 ### License for Code
 
