@@ -19,5 +19,5 @@ Give a high-level overview of the program files and their purpose. Remove redund
   
 ### License for Code
 
-The code is licensed under a MIT license. See [LICENSE.txt](LICENSE.txt) for details.
+The code is licensed under a MIT license. See [LICENSE](LICENSE) for details.
 
